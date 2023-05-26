@@ -15,7 +15,7 @@ Here are some open-source projects I'm working on:
 
 ### Statistics
 
-- [**bayestestR**](https://kiante-fernandez.github.io/DBDA_Julia/): Translation of Doing Bayesian data analysis in Julia using Turing.jl
+- [**DBDAJulia**](https://kiante-fernandez.github.io/DBDA_Julia/): Translation of Doing Bayesian data analysis in Julia using Turing.jl
 
 ### Psychology
 
