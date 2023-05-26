@@ -19,5 +19,5 @@ Here are some open-source projects I'm working on:
 
 ### Psychology
 
-- [**Rhddmjags**](https://github.com/kiante-fernandez/Rhddmjags): Repository for example Hierarchical Drift Diffusion Model (HDDM) code using JAGS in R.
+- [**Rhddmjags**](https://github.com/kiante-fernandez/Rhddmjags): Repository for example Hierarchical Drift Diffusion Model (HDDM) code using JAGS and Stan in R.
 
