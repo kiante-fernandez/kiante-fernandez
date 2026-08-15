@@ -12,11 +12,26 @@ My CV, publications and all are available on my website: <a href="https://www.ki
 
 Here are some open-source projects I'm working on:
 
-### Statistics
+### Experiment infrastructure
 
-- [**DBDAJulia**](https://kiante-fernandez.github.io/DBDA_Julia/): Translation of Doing Bayesian data analysis in Julia using Turing.jl
+- [**jsPsych-ADO**](https://github.com/jspsych/jspsych-ado): Adaptive design optimization, entirely in the browser, for jsPsych experiments.
+- [**otree-et**](https://github.com/kiante-fernandez/otree-et): Webcam eye tracking inside oTree.
+- [**webgazer-qualtrics**](https://github.com/kiante-fernandez/webgazer-qualtrics): A drop-in Qualtrics extension that captures webcam-based gaze data inside any survey.
 
-### Psychology
+### Behavioral research in the age of AI
 
-- [**Rhddmjags**](https://github.com/kiante-fernandez/Rhddmjags): Repository for example Hierarchical Drift Diffusion Model (HDDM) code using JAGS and Stan in R.
+- [**Clawlific**](https://clawlific.com): Prolific, but for AI agents — a recruitment platform for studying machine behavior in the wild.
+- [**CogArena**](https://cog-arena.vercel.app/): A benchmark that puts AI agents through online experiments and ranks them against human baselines.
+- [**Survey Shield**](https://survey-shield.com/): Sends an AI agent through your survey and reports which bot-detection traps it hit, and which it slipped past.
+- [**face-trait-transformer**](https://github.com/kiante-fernandez/face-trait-transformer): Predicts perceived-trait ratings from a face image.
 
+### Modeling and statistics
+
+- [**masc**](https://github.com/kiante-fernandez/masc): A package for simulating the Multi-Attribute Search and Choice model in R.
+- [**Rhddmjags**](https://github.com/kiante-fernandez/Rhddmjags): Example hierarchical drift diffusion model (HDDM) code using JAGS and Stan in R.
+- [**DBDAJulia**](https://kiante-fernandez.github.io/DBDA_Julia/): Translation of *Doing Bayesian Data Analysis* in Julia using Turing.jl.
+
+### Contributing to
+
+- [**hmp**](https://github.com/GWeindel/hmp): Python package for trial-by-trial detection of cognitive events in neural time series (EEG/MEG).
+- [**SequentialSamplingModels.jl**](https://github.com/itsdfish/SequentialSamplingModels.jl): An interface for simulating and evaluating sequential sampling models in Julia.
