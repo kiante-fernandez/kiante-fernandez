@@ -35,3 +35,4 @@ Here are some open-source projects I'm working on:
 
 - [**hmp**](https://github.com/GWeindel/hmp): Python package for trial-by-trial detection of cognitive events in neural time series (EEG/MEG).
 - [**SequentialSamplingModels.jl**](https://github.com/itsdfish/SequentialSamplingModels.jl): An interface for simulating and evaluating sequential sampling models in Julia.
+- [**rtdists**](https://github.com/rtdists/rtdists): R package providing distribution functions for response time models (e.g., DDM, LBA, RDM).
