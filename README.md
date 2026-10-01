@@ -17,7 +17,7 @@ Here are some open-source projects I'm working on:
 - [**jsPsych-ADO**](https://github.com/jspsych/jspsych-ado): Adaptive design optimization, entirely in the browser, for jsPsych experiments.
 - [**otree-et**](https://github.com/kiante-fernandez/otree-et): Webcam eye tracking inside oTree.
 - [**webgazer-qualtrics**](https://github.com/kiante-fernandez/webgazer-qualtrics): A drop-in Qualtrics extension that captures webcam-based gaze data inside any survey.
-- [**Liking Rating Database**](https://github.com/liking-initiative/liking-rating-database): A database of subjective liking ratings for value-based decision-making research.
+- [**The Liking Initiative**](https://github.com/liking-initiative/liking-rating-database): A database of subjective liking ratings for value-based decision-making research.
   
 ### Behavioral research in the age of AI
 
